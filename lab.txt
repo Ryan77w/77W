@@ -1,0 +1,15 @@
+
+| Question No. | Question |
+| ------ | ----------- |
+| 1. | Summarize the papers in a few sentences. Do not just copy the abstract or conclusion. |
+| 2. | What are the keywords used to categorize the paper? |
+| 3. | What are the main approaches? Comment on their novelty and technical depth. |
+| 4. | What are the major strengths of the paper?|
+| 5. | What are the major weaknesses of the paper? |
+| 6. | What do you learn from the paper? It can be either a new research area, or a new problem, or the approach itself, or evaluation methodology, or the results. |
+| 7. | Other comments. |
+
+
+
+
+
